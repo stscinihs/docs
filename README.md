@@ -1,4 +1,4 @@
 ## Docs
 
 Documentation (including meeting minutes) mostly go in the
-[wiki](/stscinihs/docs/wiki)
+[wiki](https://github.com/stscinihs/docs/wiki)
