@@ -1,4 +1,4 @@
-docs
-====
+## Docs
 
-Documentation (including meeting minutes)
+Documentation (including meeting minutes) mostly go in the
+[wiki](/stscinihs/docs/wiki)
